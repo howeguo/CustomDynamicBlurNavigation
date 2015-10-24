@@ -1,0 +1,4 @@
+# CustomDynamicBlurNavigation
+
+这个一般用于列表的头部有一个cover图，然后在导航栏的位置生成实时模糊的效果。
+希望可以帮到你
